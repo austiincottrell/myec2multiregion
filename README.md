@@ -4,7 +4,7 @@ deploy two ec2's one in us-west-2 (with an EIP) and the other in us-east-1
 Have some fun with this and get the hang of Terraform. 
 
 Make sure you run a terraform init command before running the code and download AWS CLI. 
-AWS CLI will hold your secret key and accesss key given my AWS. 
+AWS CLI will hold your secret key and accesss key given by AWS. 
 
 https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html
   - Download according to your OS
